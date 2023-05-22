@@ -1,0 +1,32 @@
+[
+  {
+    "idalertastock": 1,
+    "CantidadMinima": 5,
+    "IdArticulo": 1
+  },
+  {
+    "idalertastock": 2,
+    "CantidadMinima": 10,
+    "IdArticulo": 2
+  },
+  {
+    "idalertastock": 3,
+    "CantidadMinima": 8,
+    "IdArticulo": 3
+  },
+  {
+    "idalertastock": 4,
+    "CantidadMinima": 3,
+    "IdArticulo": 4
+  },
+  {
+    "idalertastock": 5,
+    "CantidadMinima": 2,
+    "IdArticulo": 5
+  },
+  {
+    "idalertastock": 6,
+    "CantidadMinima": 15,
+    "IdArticulo": 6
+  }
+]

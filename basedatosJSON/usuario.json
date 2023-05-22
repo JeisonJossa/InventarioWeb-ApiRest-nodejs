@@ -1,0 +1,84 @@
+{
+  "usuario": [
+    {
+      "IdUsuario": 9,
+      "NombreUsuario": "admin1",
+      "CorreoElectronico": "admin1@inventarioweb.com",
+      "Contrasena": "1234567",
+      "EsAdmin": "on",
+      "correo": "1@1.com"
+    },
+    {
+      "IdUsuario": 2,
+      "NombreUsuario": "jose",
+      "CorreoElectronico": "jose@gmail.com",
+      "Contrasena": "qwerty",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 3,
+      "NombreUsuario": "ana",
+      "CorreoElectronico": "ana@hotmail.com",
+      "Contrasena": "securepass",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 5,
+      "NombreUsuario": "maria",
+      "CorreoElectronico": "maria@gmail.com",
+      "Contrasena": "secret123",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 6,
+      "NombreUsuario": "carlos",
+      "CorreoElectronico": "carlos@hotmail.com",
+      "Contrasena": "password456",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 7,
+      "NombreUsuario": "laura",
+      "CorreoElectronico": "laura@gmail.com",
+      "Contrasena": "1234",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 9,
+      "NombreUsuario": "juan2p",
+      "CorreoElectronico": "jorge2p@yahoo.com",
+      "Contrasena": "987654",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 10,
+      "NombreUsuario": "juanpipi",
+      "CorreoElectronico": "juanpi@yahoo.com",
+      "Contrasena": "987654",
+      "EsAdmin": 0,
+      "correo": "juanpi@yahoo.com"
+    },
+    {
+      "IdUsuario": 11,
+      "NombreUsuario": "jeijei",
+      "CorreoElectronico": "jeisonjm66@gmail.com",
+      "Contrasena": "1234",
+      "EsAdmin": 0
+    },
+    {
+      "IdUsuario": 9,
+      "NombreUsuario": "juan2p",
+      "CorreoElectronico": "12@1.com",
+      "Contrasena": "987654",
+      "EsAdmin": "on",
+      "correo": "1@1.com"
+    },
+    {
+      "IdUsuario": 15,
+      "NombreUsuario": "juanpi",
+      "CorreoElectronico": "juanpi@yahoo.com",
+      "Contrasena": "987654",
+      "EsAdmin": 0
+    }
+  ]
+}

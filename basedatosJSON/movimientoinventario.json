@@ -1,0 +1,26 @@
+[
+  {
+    "idmovimiento": 7,
+    "idarticulo": 21,
+    "nombrearticulo": "Manguera",
+    "cantidad": 1,
+    "tipo": "Salida",
+    "fecha": "2023-05-14"
+  },
+  {
+    "idmovimiento": 8,
+    "idarticulo": 22,
+    "nombrearticulo": "rueda",
+    "cantidad": 5,
+    "tipo": "Entrada",
+    "fecha": "2023-05-14"
+  },
+  {
+    "idmovimiento": 9,
+    "idarticulo": 1,
+    "nombrearticulo": "Bicicleta de montaña",
+    "cantidad": 100,
+    "tipo": "Entrada",
+    "fecha": "2023-05-20"
+  }
+]

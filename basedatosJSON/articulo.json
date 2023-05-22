@@ -1,0 +1,184 @@
+[
+  {
+    "idarticulo": 1,
+    "nombrearticulo": "Bicicleta de montaña",
+    "PrecioArticulo": 1550000,
+    "CantidadStock": 110,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 2,
+    "nombrearticulo": "Bicicleta de ruta",
+    "PrecioArticulo": 1250000,
+    "CantidadStock": 5,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 3,
+    "nombrearticulo": "Casco de montaña",
+    "PrecioArticulo": 50000,
+    "CantidadStock": 20,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 4,
+    "nombrearticulo": "Casco de ruta",
+    "PrecioArticulo": 70000,
+    "CantidadStock": 15,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 5,
+    "nombrearticulo": "Guantes de ciclismo",
+    "PrecioArticulo": 20000,
+    "CantidadStock": 30,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 6,
+    "nombrearticulo": "Zapatillas de ciclismo",
+    "PrecioArticulo": 90000,
+    "CantidadStock": 10,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 7,
+    "nombrearticulo": "Sillín de bicicleta",
+    "PrecioArticulo": 25000,
+    "CantidadStock": 50,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 8,
+    "nombrearticulo": "Pedales de bicicleta",
+    "PrecioArticulo": 15000,
+    "CantidadStock": 40,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 9,
+    "nombrearticulo": "Bomba de aire para bicicleta",
+    "PrecioArticulo": 30000,
+    "CantidadStock": 25,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 10,
+    "nombrearticulo": "Luces LED para bicicleta",
+    "PrecioArticulo": 12000,
+    "CantidadStock": 35,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 11,
+    "nombrearticulo": "Bicicleta de montaña",
+    "PrecioArticulo": 1500000,
+    "CantidadStock": 10,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 12,
+    "nombrearticulo": "Bicicleta de ruta",
+    "PrecioArticulo": 2500000,
+    "CantidadStock": 5,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 13,
+    "nombrearticulo": "Casco",
+    "PrecioArticulo": 100000,
+    "CantidadStock": 50,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 14,
+    "nombrearticulo": "Guantes",
+    "PrecioArticulo": 50000,
+    "CantidadStock": 30,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 15,
+    "nombrearticulo": "Zapatillas de ciclismo",
+    "PrecioArticulo": 200000,
+    "CantidadStock": 20,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 16,
+    "nombrearticulo": "Llanta de repuesto",
+    "PrecioArticulo": 50000,
+    "CantidadStock": 15,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 17,
+    "nombrearticulo": "Pedales",
+    "PrecioArticulo": 75000,
+    "CantidadStock": 25,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 18,
+    "nombrearticulo": "Asiento",
+    "PrecioArticulo": 40000,
+    "CantidadStock": 20,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 19,
+    "nombrearticulo": "Espejos retrovisores",
+    "PrecioArticulo": 20000,
+    "CantidadStock": 10,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 20,
+    "nombrearticulo": "Kit de herramientas",
+    "PrecioArticulo": 50000,
+    "CantidadStock": 20,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 21,
+    "nombrearticulo": "Manguera",
+    "PrecioArticulo": 4500,
+    "CantidadStock": 9,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 22,
+    "nombrearticulo": "rueda",
+    "PrecioArticulo": 3000,
+    "CantidadStock": 105,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 23,
+    "nombrearticulo": "rin",
+    "PrecioArticulo": 2000,
+    "CantidadStock": 20,
+    "EstadoArticulo": 0
+  },
+  {
+    "idarticulo": 24,
+    "nombrearticulo": "rin2",
+    "PrecioArticulo": 2,
+    "CantidadStock": 2,
+    "EstadoArticulo": 0
+  },
+  {
+    "idarticulo": 25,
+    "nombrearticulo": "2",
+    "PrecioArticulo": 2,
+    "CantidadStock": 6,
+    "EstadoArticulo": 1
+  },
+  {
+    "idarticulo": 26,
+    "nombrearticulo": "3",
+    "PrecioArticulo": 2,
+    "CantidadStock": 6,
+    "EstadoArticulo": 1
+  }
+]
